@@ -12,7 +12,7 @@ https://www.circumdigital.com (Come to the official website to view our project 
 
 🌱 Skill - What skills do your team possess?
 
-UI design
+UI/UX design
 
 Front-end development (Flutter APP / applet / Website)
 
