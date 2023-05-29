@@ -6,7 +6,7 @@ We are software developers from around the world, and CircumDigital is where we 
 
 🌈 Contribution guidelines - How can the community get official website?
 
-https://www.circumdigital.com
+https://www.circumdigital.com (Come to the official website to view our project cases~)
 
 👩‍💻 Useful resources - where can the community find your docs? Is there anything else else the community should know?
 
