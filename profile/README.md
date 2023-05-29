@@ -1,12 +1,21 @@
-## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
+## Hi there!  👋
 
 🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
+We are software developers from around the world, and CircumDigital is where we meet. We aim to create a more professional team.
+
+🌈 Contribution guidelines - How can the community get official website?
+
+https://www.circumdigital.com
+
+👩‍💻 Useful resources - where can the community find your docs? Is there anything else else the community should know?
+
+🌱 Skill - What skills do your team possess?
+
+UI design
+
+Front-end development (Flutter APP / applet / Website)
+
+Back-end development (Golang / Java / PHP) 
+
+O&M architecture (Jenkins / K8s / More...)
